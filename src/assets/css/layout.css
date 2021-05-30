@@ -1,0 +1,11 @@
+
+
+/*表格的布局*/
+.l-list {
+    margin-top: 28px;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 19rem;max-width: 1035px
+}
+

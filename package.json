@@ -1,0 +1,27 @@
+{
+  "name": "cnrjb",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve --open",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.9.2",
+    "ant-design-vue": "^1.7.5",
+    "axios": "^0.21.1",
+    "core-js": "^3.6.5",
+    "echarts": "^5.1.1",
+    "popper": "^1.0.1",
+    "vue": "^2.6.11",
+    "vue-router": "^3.5.1",
+    "vuex": "^3.6.2",
+    "jquery": "^3.1.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "vue-template-compiler": "^2.6.11",
+    "bootstrap": "~3.4.1"
+  }
+}

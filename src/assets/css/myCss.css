@@ -1,0 +1,23 @@
+.vertical {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.my_color {
+    color: black;
+}
+
+.tr_color {
+    background-color: #f5f8a3;
+}
+
+.table_color {
+    background-color: rgba(128, 193, 133, 0.7);
+
+}
+
+.bgc_color {
+    background-color: rgba(210, 210, 208, 0.62);
+}
+
